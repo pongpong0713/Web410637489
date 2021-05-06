@@ -9,7 +9,7 @@ namespace Web410637489.Controllers
     public class TestController : Controller
     {
         // GET: Default
-        public ActionResult Index()
+        public ActionResult HW01()
         {
             return View();
         }
