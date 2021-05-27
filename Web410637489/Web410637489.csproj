@@ -166,6 +166,7 @@
     <Content Include="Views\Test\Index.cshtml" />
     <Content Include="Views\Test\HW01.cshtml" />
     <Content Include="Views\Test\HW02.cshtml" />
+    <Content Include="Views\Test\HW03.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
